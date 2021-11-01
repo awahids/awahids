@@ -10,23 +10,13 @@ Welcome to [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF
 
 <img src="https://readme-typing-svg.herokuapp.com?color=%23C5705D&lines=I%E2%80%99m+a+passionate+Backend+developer;I'm+actively+looking+for+work;Building+fun+experiments+on+entry-level;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 
-</p>  
-
-<p align="center">
-
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/awahids/belajar-ngaji?logoColor=indianred&style=social">
-
-![Twitter Follow](https://img.shields.io/twitter/follow/awahids_?logoColor=indianred&style=social)
-
-<img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/34haut7pkOk?logoColor=indianred&style=social">
-
 </p>
 
 ##  🔥 Streak stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=awahids&theme=calm&date_format=j%20M%5B%20Y%5D&stroke=DD2727)](https://git.io/streak-stats)
 
 
-##  🛠️ My favorite tools
+##  🛠️ Tools
 
 ###  👨‍💻 Programming languages
 
@@ -137,6 +127,6 @@ Welcome to [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF
 <br />
 <br />
 
-<!--a href="https://twitter.com/awahids_">
+<a href="https://twitter.com/awahids_">
   <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a-->
+</a>
