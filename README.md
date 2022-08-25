@@ -57,9 +57,9 @@ Welcome to [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF
 
 ##  📊 Github stats
 
-<details>
-
 <img src="https://res.cloudinary.com/awhds/image/upload/v1661399342/me/github-user-contribution_s9say5.svg" alt="github commit"></img>
+
+<details>
 
 <summary>💻 GitHub Profile Stats</summary>
 
