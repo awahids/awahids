@@ -14,7 +14,7 @@ Welcome to [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF
 
 <p align="center">
 
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/awahids/belajar-ngaji?logoColor=indianred&style=social"> <img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/34haut7pkOk?logoColor=indianred&style=social"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/throwerror404?logoColor=indianred&style=social">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/awahids/belajar-ngaji?logoColor=indianred&style=social"> <img alt="YouTube Video Views" src="https://img.shields.io/youtube/views/34haut7pkOk?logoColor=indianred&style=social"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/awahds_?logoColor=indianred&style=social">
 <img src="https://komarev.com/ghpvc/?username=awahids&label=Profile%20views&color=8042fc&style=plastic" alt="awahids" /> 
 
 </p>
@@ -75,6 +75,6 @@ Welcome to [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF
 <br />
 <br />
 
-<a href="https://twitter.com/throwerror404">
+<a href="https://twitter.com/awahids_">
   <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
