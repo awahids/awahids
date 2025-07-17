@@ -24,7 +24,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning Golang
+  📚 I’m currently learning Golang & VueJs
   <br>
   💬 Ask me anything about from <a href="https://github.com/awahids/awahids/issues" title="Issues">Here</a>
   <br>
