@@ -18,7 +18,7 @@
   Hi, I'm Wahid, Backend Developer from Sumbawa, West Nusa Tenggara
   <br>
   <br>
-  🔬 I'm currently Working at Fintech Sharia
+  🔬 I'm currently Working at F&B Manufacturing
   <br>
   🎓 I graduated from Mataram University, Informatics Engineer
   <br>
