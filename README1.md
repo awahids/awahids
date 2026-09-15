@@ -1,4 +1,4 @@
-<img align="right" src="https://img.shields.io/github/stars/awahids/belajar-ngaji?logoColor=indianred&style=social">
+<!-- <img align="right" src="https://img.shields.io/github/stars/awahids/belajar-ngaji?logoColor=indianred&style=social">
 <br>
 <!-- <img align="right" src="https://camo.githubusercontent.com/5b40f0aa182921b2e12dee291ce5a292221a2a3b1a7ddf33dbc76ec5395d78bd/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d61776168696473266c6162656c3d50726f66696c65253230766965777326636f6c6f723d383034326663267374796c653d706c6173746963"> -->
 <img align="right" src="https://komarev.com/ghpvc/?username=awahids&style=plastic&label=visitor&base=345243&color=red">
@@ -68,4 +68,4 @@
   </div>
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=awahids&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+</p> -->
