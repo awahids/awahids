@@ -39,9 +39,9 @@
   <picture><source media="(prefers-color-scheme: light)" srcset="https://awahids.my.id/api/github/activity-graph?username=awahids&theme=light" /><img src="https://awahids.my.id/api/github/activity-graph?username=awahids&theme=dracula" width="100%" /></picture>
 </p>
 
-<hr>
+<!-- <hr>
 <h2 align="center">🐍 Contribution Snake 🐍</h2>
-<br>
+<br> -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/awahids/awahids/output/github-snake-dark.svg" />
@@ -50,9 +50,9 @@
   </picture>
 </p>
 
-<hr>
+<!-- <hr>
 <h2 align="center">📊 Lines of Code 📊</h2>
-<br>
+<br> -->
 
 <!-- PUBLIC CODE STATS START -->
 Public, non-fork repositories owned by [@awahids](https://github.com/awahids): **55**
