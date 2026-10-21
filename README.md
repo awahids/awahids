@@ -55,18 +55,17 @@
 <br> -->
 
 <!-- PUBLIC CODE STATS START -->
-<p align="center">
-  Public, non-fork repositories owned by [@awahids](https://github.com/awahids): **55**
+Public, non-fork repositories owned by [@awahids](https://github.com/awahids): **55**
 
-  | Language | Code lines |
-  | --- | ---: |
-  | TypeScript | 103,797 |
-  | JavaScript | 34,019 |
-  | Go | 13,444 |
-  | JSX | 7,301 |
-  | PHP | 4,863 |
-  | Python | 374 |
-  | Others | 8,977 |
-  | **Total** | **172,775** |
+| Language | Code lines |
+| --- | ---: |
+| TypeScript | 103,797 |
+| JavaScript | 34,019 |
+| Go | 13,444 |
+| JSX | 7,301 |
+| PHP | 4,863 |
+| Python | 374 |
+| Others | 8,977 |
+| **Total** | **172,775** |
 <!-- PUBLIC CODE STATS END -->
 </p>
