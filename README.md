@@ -1,4 +1,4 @@
-<img align="right" src="https://awahids.my.id/api/github/stars-badge?username=awahids&repos=belajar-ngaji%2Cmonli">
+<!-- <img align="right" src="https://awahids.my.id/api/github/stars-badge?username=awahids&repos=belajar-ngaji%2Cmonli"> -->
 <img align="right" src="https://awahids.my.id/api/visitor-count?username=awahids">
 <br>
 
