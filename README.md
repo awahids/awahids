@@ -1,41 +1,59 @@
-<img align="right" src="https://awahids.my.id/api/github/stars-badge?username=awahids&repos=belajar-ngaji%2Cmonli"><img align="right" src="https://awahids.my.id/api/visitor-count?username=awahids">
+<img align="right" src="https://awahids.my.id/api/github/stars-badge?username=awahids&repos=belajar-ngaji%2Cmonli">
+<img align="right" src="https://awahids.my.id/api/visitor-count?username=awahids">
 <br>
 
 <h1 align="center">
-  <img src="https://awahids.my.id/api/typing?lines=Hello%2C+There%21+%F0%9F%91%8B+Nice+to+meet+you%21&size=30&align=center&weight=bold&theme=tokyonight">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://awahids.my.id/api/typing?lines=Full-stack+developer+building+useful&size=30&align=left&theme=light" /><img src="https://awahids.my.id/api/typing?lines=Full-stack+developer+building+useful&size=30&align=left&theme=dracula" /></picture>
 </h1>
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/awahids" title="LinkedIn">LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/awhds_" title="Instagram">Instagram</a></code>
   <code><a href="mailto:awahid.safhadi@gmail.com" title="Email">Email</a></code>
+  <code><a href="https://awahids.my.id" title="Website">Website</a></code>
 </h5>
 <br>
 
 <p align="center">
-  I build full-stack web applications with TypeScript, React, and Node.js. I enjoy working on both frontend and backend, from crafting responsive UIs to designing APIs and managing databases.
+  I’m a full-stack developer focused on building useful, scalable web applications with TypeScript, React, Node.js, and Go.
   <br>
   <br>
-  My journey also covers DevOps basics like Docker, Nginx, and cloud deployments on Vercel and Cloudflare. Always learning, always building.
-  <br>
-  <br>
-  Feel free to explore my projects and connect!
+  I work across frontend and backend technologies, from modern UI frameworks and APIs to databases, deployment, and developer tooling.
 </p>
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nodejs,nestjs,express,laravel,php,go,postgres,mysql,mongodb,prisma,redis,docker,nginx,vercel,cloudflare,git,github,vscode,postman,bash,dart,css,html,vite,bootstrap,tailwind,supabase,sentry,gitlab,bitbucket,notion,npm,yarn,pnpm,jest,bun,flutter&perline=10" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nodejs,nestjs,express,laravel,php,go,postgres,mysql,mongodb,prisma,redis,docker,nginx,vercel,cloudflare,git,github,vscode,postman,bash,dart,css,html,tailwind,bootstrap,vite,babel,graphql,supabase,aws,netlify,githubactions,sentry,gitlab,bitbucket,yarn,npm,notion,pnpm,flutter,jest,bun&perline=10" alt="Skills" />
 </p>
 
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align="center">
-  <img src="https://awahids.my.id/api/github/streak?username=awahids&theme=tokyonight" /><br>
-  <img src="https://awahids.my.id/api/github/stats?username=awahids&theme=tokyonight" />
-  <img src="https://awahids.my.id/api/github/top-langs?username=awahids&theme=tokyonight" />
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://awahids.my.id/api/github/trophies?username=awahids&theme=light" /><img src="https://awahids.my.id/api/github/trophies?username=awahids&theme=dracula" /></picture><br>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://awahids.my.id/api/github/streak?username=awahids&theme=light" /><img src="https://awahids.my.id/api/github/streak?username=awahids&theme=dracula" /></picture><br>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://awahids.my.id/api/github/stats?username=awahids&theme=light" /><img src="https://awahids.my.id/api/github/stats?username=awahids&theme=dracula" /></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://awahids.my.id/api/github/top-langs?username=awahids&theme=light" /><img src="https://awahids.my.id/api/github/top-langs?username=awahids&theme=dracula" /></picture>
   <br>
-  <img src="https://awahids.my.id/api/github/activity-graph?username=awahids&theme=tokyonight" width="100%"/>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://awahids.my.id/api/github/activity-graph?username=awahids&theme=light" /><img src="https://awahids.my.id/api/github/activity-graph?username=awahids&theme=dracula" width="100%" /></picture>
 </p>
+
+<hr>
+<h2 align="center">🐍 Contribution Snake 🐍</h2>
+<br>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/awahids/awahids/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/awahids/awahids/output/github-snake.svg" />
+    <img alt="A snake eating the contribution graph" src="https://raw.githubusercontent.com/awahids/awahids/output/github-snake.svg" />
+  </picture>
+</p>
+
+<hr>
+<h2 align="center">📊 Lines of Code 📊</h2>
+<br>
+
+<!-- PUBLIC CODE STATS START -->
+<p align="center"><em>Filled in by the Analyze Public Repositories workflow after its first run.</em></p>
+<!-- PUBLIC CODE STATS END -->
