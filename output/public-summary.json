@@ -1,0 +1,95 @@
+{
+  "username": "awahids",
+  "repository_count": 55,
+  "total_code_lines": 172775,
+  "languages": [
+    {
+      "name": "Blade",
+      "code_lines": 1527
+    },
+    {
+      "name": "Bourne Again Shell",
+      "code_lines": 5
+    },
+    {
+      "name": "Bourne Shell",
+      "code_lines": 537
+    },
+    {
+      "name": "CoffeeScript",
+      "code_lines": 6
+    },
+    {
+      "name": "DOS Batch",
+      "code_lines": 71
+    },
+    {
+      "name": "Dockerfile",
+      "code_lines": 117
+    },
+    {
+      "name": "ERB",
+      "code_lines": 90
+    },
+    {
+      "name": "Go",
+      "code_lines": 13444
+    },
+    {
+      "name": "Gradle",
+      "code_lines": 136
+    },
+    {
+      "name": "Handlebars",
+      "code_lines": 30
+    },
+    {
+      "name": "INI",
+      "code_lines": 28
+    },
+    {
+      "name": "JSX",
+      "code_lines": 7301
+    },
+    {
+      "name": "Java",
+      "code_lines": 27
+    },
+    {
+      "name": "JavaScript",
+      "code_lines": 34019
+    },
+    {
+      "name": "PHP",
+      "code_lines": 4863
+    },
+    {
+      "name": "Python",
+      "code_lines": 374
+    },
+    {
+      "name": "Ruby",
+      "code_lines": 451
+    },
+    {
+      "name": "SQL",
+      "code_lines": 5000
+    },
+    {
+      "name": "Swift",
+      "code_lines": 82
+    },
+    {
+      "name": "TypeScript",
+      "code_lines": 103797
+    },
+    {
+      "name": "Vuejs Component",
+      "code_lines": 825
+    },
+    {
+      "name": "make",
+      "code_lines": 45
+    }
+  ]
+}
